@@ -8,3 +8,13 @@
 	url = https://github.com/cran/airr
 	shallow = true
 	registered = true
+[submodule "alakazam"]
+	path = alakazam
+	url = https://bitbucket.org/kleinstein/alakazam
+	shallow = true
+	registered = true
+[submodule "shazam"]
+	path = shazam
+	url = https://bitbucket.org/kleinstein/shazam
+	shallow = true
+	registered = true
