@@ -5,9 +5,6 @@
 [submodule "airr"]
 	path = airr
 	url = https://github.com/cran/airr
-[submodule "alakazam"]
-	path = alakazam
-	url = https://bitbucket.org/kleinstein/alakazam
 [submodule "shazam"]
 	path = shazam
 	url = https://bitbucket.org/kleinstein/shazam
